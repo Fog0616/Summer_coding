@@ -484,7 +484,6 @@ int Pig::try_kill()
 		}
 	}
 }
-
 inline void Pig::kill(Pig &that)
 {
 	jump();//杀必然跳身份 
