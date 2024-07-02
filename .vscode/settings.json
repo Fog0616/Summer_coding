@@ -11,6 +11,7 @@
         "vector": "cpp",
         "algorithm": "cpp",
         "iterator": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "future": "cpp"
     }
 }
