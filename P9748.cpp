@@ -16,7 +16,7 @@ int main()
 		++ a;
 	}
 	
-	cout << a << ' ' << b << '\n';
+	cout << a << ' ' << b << endl;
 	
 	return 0;	
 }
