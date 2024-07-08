@@ -13,5 +13,6 @@
         "iterator": "cpp",
         "regex": "cpp",
         "future": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
