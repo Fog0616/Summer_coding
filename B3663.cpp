@@ -7,8 +7,8 @@ string gu;
 int main(){
     cin>>gu;
     string target="luogu";
-    int count=0
-    for(int i=0;i<=gu.length();){
+    int count=0;
+    for(int i=0;i<=gu.length(); ){
         if(gu[i]='l'){
             if(gu[i+1]='u'){
                 if(gu[i+2]='o'){
@@ -23,7 +23,9 @@ int main(){
             }
             else count++;
         }
-        i++
+        
     }
+    cout<<count;
+    return 0;
 
 }
