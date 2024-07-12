@@ -21,7 +21,7 @@ struct Point{
         cout<<"row:"<<row<<"column:"<<column<<"color:"<<color<<endl;
 
     }
-}; 
+}; //wrong
 int main(){
     Point pt1;
     pt1.print_pt();
