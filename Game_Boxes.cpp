@@ -252,6 +252,10 @@ int gameOver2()
  
 int main()
 {
+	getchar();
+	cout<<"could't run in Vscode";
+	system("pause");
+	return 0;
 	while (1)
 	{
 		printf("\n\t用方向键或w a s d键移动※推动★进入☆\n",cas+1);
