@@ -1,3 +1,4 @@
+#define warning "unexcpet to rum on Vscode."
 #include <stdio.h>
 #include <conio.h>
 #include <windows.h>
